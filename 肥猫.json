@@ -356,21 +356,6 @@
       "api": "csp_SP360"
     },
     {
-      "key": "csp_Bili",
-      "name": "哔哩┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "playerType": 2,
-      "ext": {
-        "json": "./bili.json",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      }
-    },
-    {
       "key": "csp_Dm84",
       "name": "动漫┃巴士",
       "type": 3,
@@ -483,7 +468,7 @@
       "key": "儿童",
       "name": "儿童┃启蒙",
       "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "api": "https://gh-proxy.net/https://raw.bgithub.xyz/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -491,7 +476,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
+      "ext": "https://gh-proxy.net/https://raw.bgithub.xyz/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
     },
     {
       "key": "csp_少儿",
