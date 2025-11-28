@@ -52,10 +52,6 @@
             "name": "摸鱼"
         },
 		{
-            "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-            "name": "欧歌"
-        },
-		{
             "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "高天流云"
         },
@@ -64,4 +60,5 @@
             "name": "菜妮丝"
         }
     ]
+
 }
