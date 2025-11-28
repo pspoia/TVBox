@@ -1,6 +1,4 @@
 {
-  "菜妮丝": "https://菜妮丝.top",
-  "友情提醒": "接口完全免费，切勿付费购买。",
   "spider": "https://tv.菜妮丝.top/jar/fty0731.jar;md5;2452e3a72453e1e2305e9b66eae38fe5",
   "logo": "https://q2.qlogo.cn/headimg_dl?dst_uin=524187805&spec=100",
   "wallpaper": "https://api.hanximeng.com/ranimg/?size=m",
@@ -737,4 +735,5 @@
   "ads": [
     "mozai.4gtv.tv"
   ]
+
 }
