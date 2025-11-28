@@ -28,10 +28,6 @@
             "name": "One"
         },
 		{
-            "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
-            "name": "道长"
-        },
-		{
             "url": "https://raw.bgithub.xyz/pspoia/TVBox/refs/heads/main/%E9%A6%99%E9%9B%85%E6%83%85.json",
             "name": "香雅情"
         },
@@ -62,4 +58,5 @@
     ]
 
 }
+
 
