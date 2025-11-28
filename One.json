@@ -5,7 +5,7 @@
       "key": "豆瓣",
       "name": "豆瓣评分",
       "type": 3,
-      "api": "https://raw.bgithub.xyz/leevi0709/one/mainsp_Douban",
+      "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
       "indexs": 1,
@@ -965,4 +965,5 @@
   ],
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img"
+
 }
