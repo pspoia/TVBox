@@ -1159,7 +1159,7 @@
     {
       "name": "AI直播",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.bgithub.xyz/develop202/migu_video/refs/heads/main/interface.txt",
       "playerType": 2,
       "timeout": 10
     },
