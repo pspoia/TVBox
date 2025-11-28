@@ -1,5 +1,5 @@
 {
-  "spider": "https://tv.菜妮丝.top/jar/fty0731.jar;md5;2452e3a72453e1e2305e9b66eae38fe5",
+  "spider": "https://tv.xn--yhqu5zs87a.top/jar/fty0731.jar",
   "logo": "https://q2.qlogo.cn/headimg_dl?dst_uin=524187805&spec=100",
   "wallpaper": "https://api.hanximeng.com/ranimg/?size=m",
   "sites": [
@@ -19,8 +19,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 15,
-      "ext": "https://tv.菜妮丝.top/json/jianpian.json",
-      "jar": "https://tv.菜妮丝.top/jar/fm1022.jar;md5;bc0b643f8920201b9d08f2e605f51acd"
+      "ext": "https://tv.xn--yhqu5zs87a.top/json/jianpian.json",
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/fm1022.jar"
     },
     {
       "key": "Local",
@@ -29,7 +29,7 @@
       "api": "csp_Local",
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://tv.菜妮丝.top/jar/fm1022.jar;md5;bc0b643f8920201b9d08f2e605f51acd"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/fm1022.jar"
     },
     {
       "key": "白白",
@@ -272,7 +272,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "http://v.rbotv.cn",
-      "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/feimao0731.jar"
     },
     {
       "key": "梦回",
@@ -282,7 +282,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "http://v.lkuys.cn",
-      "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/feimao0731.jar"
     },
     {
       "key": "星辉",
@@ -292,7 +292,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "http://tt.ysdqjs.cn",
-      "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/feimao0731.jar"
     },
     {
       "key": "肥猫",
@@ -307,7 +307,7 @@
         "siteApi": "get",
         "version": "201"
       },
-      "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/feimao0731.jar"
     },
     {
       "key": "行动",
@@ -322,7 +322,7 @@
         "siteApi": "get",
         "version": "304"
       },
-      "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/feimao0731.jar"
     },
     {
       "key": "仓鼠",
@@ -337,7 +337,7 @@
         "siteApi": "qiji",
         "version": ""
       },
-      "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/feimao0731.jar"
     },
     {
       "key": "蔬菜",
@@ -352,7 +352,7 @@
         "siteApi": "get",
         "version": "140"
       },
-      "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/feimao0731.jar"
     },
     {
       "key": "黑猫",
@@ -367,7 +367,7 @@
         "siteApi": "get",
         "version": "203"
       },
-      "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/feimao0731.jar"
     },
     {
       "key": "金牌",
@@ -376,7 +376,7 @@
       "api": "csp_Jpys",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/feimao0731.jar"
     },
     {
       "key": "csp_Wwys",
@@ -386,7 +386,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://www.wwgz.cn",
-      "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/feimao0731.jar"
     },
     {
       "key": "鸭梨",
@@ -395,7 +395,7 @@
       "api": "csp_KmeiJu",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/feimao0731.jar"
     },
     {
       "key": "csp_Xlys",
@@ -405,7 +405,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://xl01.com.de",
-      "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/feimao0731.jar"
     },
     {
       "key": "csp_Tvyb",
@@ -414,7 +414,7 @@
       "api": "csp_Tvyb",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/feimao0731.jar"
     },
     {
       "key": "csp_Qiyou",
@@ -423,7 +423,7 @@
       "api": "csp_Qiyou",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/feimao0731.jar"
     },
     {
       "key": "火火",
@@ -433,7 +433,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://shdy5.us",
-      "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/feimao0731.jar"
     },
     {
       "key": "csp_Gz360",
@@ -442,7 +442,7 @@
       "api": "csp_Gz360",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/feimao0731.jar"
     },
     {
       "key": "猎手影视",
@@ -459,7 +459,7 @@
       "api": "csp_AppXY",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/feimao0731.jar"
     },
     {
       "key": "河马短剧",
@@ -476,7 +476,7 @@
       "api": "csp_SP360",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://tv.菜妮丝.top/jar/xyq0729.jar;md5;705ba6e23c4384c37a11dd904727520b"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/xyq0729.jar"
     },
     {
       "key": "非凡",
@@ -493,7 +493,7 @@
       "api": "csp_Push",
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://tv.菜妮丝.top/jar/fm1022.jar;md5;bc0b643f8920201b9d08f2e605f51acd"
+      "jar": "https://tv.xn--yhqu5zs87a.top/jar/fm1022.jar"
     },
     {
       "key": "公告",
@@ -737,4 +737,5 @@
   ]
 
 }
+
 
