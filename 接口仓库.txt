@@ -13,7 +13,7 @@
         },
 		{
             "url": "http://ok321.top/tv",
-            "name": "jack老师"
+            "name": "JACK老师"
         },
 		{
             "url": "http://cdn.qiaoji8.com/tvbox.json",
@@ -62,3 +62,4 @@
     ]
 
 }
+
