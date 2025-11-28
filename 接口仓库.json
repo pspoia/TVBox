@@ -28,7 +28,7 @@
             "name": "One"
         },
 		{
-            "url": "https://raw.bgithub.xyz/pspoia/TVBox/refs/heads/main/%E9%81%93%E9%95%BF.json",
+            "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
             "name": "道长"
         },
 		{
@@ -62,3 +62,4 @@
     ]
 
 }
+
