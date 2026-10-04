@@ -8,6 +8,10 @@
             "name": "饭太硬备用"
         },
 		{
+            "url": "https://raw.githubusercontent.com/pspoia/TVBox/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC.json",
+            "name": "饭太硬备用2"
+        },
+		{
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
             "name": "王二小"
         },
