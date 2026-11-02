@@ -24,7 +24,7 @@
             "name": "道长"
         },
 		{
-            "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQTVBox.json",
             "name": "香雅情"
         },
 		{
